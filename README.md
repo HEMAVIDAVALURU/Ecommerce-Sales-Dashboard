@@ -61,10 +61,12 @@ Shipping costs vs. profit
 Order delivery performance
 
 ## **📂 Repository Contents**
+```
 📦 Ecommerce-Sales-Dashboard
  ┣ 📊 Ecommerce-Sales-Dashboard.pbix   → Main Power BI Report
  ┣ 🖼️ Screenshots/                     → Dashboard preview images (optional)
  ┗ 📄 README.md                        → Project documentation
+```
 
 ## **🔍 Key Insights (Example)**
 
